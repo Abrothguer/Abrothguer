@@ -1,4 +1,8 @@
-### Hi there 👋
+# Greetings
+
+My name is Arthur Borges, I'm a full stack developer
+
+I code mostly Python (the best and simplest language), Javascript (because things should look nice) and Java (out of necessity). Most of my work is private!
 
 <!--
 **Abrothguer/Abrothguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
